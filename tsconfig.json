@@ -20,6 +20,8 @@
   },
   "exclude": [
     "src/stories",
-    "**/*.stories.tsx"
+    "**/*.stories.tsx",
+    "src/mitosis/**",
+    "src/react/**"
   ]
 }
