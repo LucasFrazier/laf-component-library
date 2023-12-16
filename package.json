@@ -57,6 +57,6 @@
   "dependencies": {
     "@storybook/testing-library": "^0.0.13",
     "jest-environment-jsdom": "^29.3.1",
-    "postcss": "^8.4.19"
+    "postcss": "^8.4.31"
   }
 }
